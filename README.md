@@ -18,8 +18,8 @@ python -m pip install -r requirements.txt
 * generate qr codes for networking
 
 ```sh
-# write environment variables called in generate.py to .env
 touch .env
+# write environment variables to .env
 echo 'LINKEDIN="INSERTVARHERE"\nGITHUB="INSERTVARHERE"\nWEBSITE="INSERTVARHERE"\nRESUME="INSERTVARHERE"' > .env
 python qr/generate.py
 ```
