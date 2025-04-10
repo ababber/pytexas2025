@@ -1,5 +1,11 @@
 # pytexas2025
 
+> This repo contains notes and scripts from the presentations at PyTexas2025!
+
+## [conference website](https://www.pytexas.org/2025/)
+
+## [schedule](https://www.pytexas.org/2025/schedule/)
+
 ## install packages
 
 ```sh

@@ -1,3 +1,11 @@
+"""
+calling this script creates qr codes in pytexas2025/
+qr codes generated from .env variables
+refer to README.md
+
+https://segno.readthedocs.io/en/latest/colorful-qrcodes.html#module-names
+"""
+
 import os
 import segno
 from dotenv import load_dotenv
@@ -35,5 +43,3 @@ qrcode.save(
     scale=10,
     light="lightgreen",
 )
-
-# https://segno.readthedocs.io/en/latest/colorful-qrcodes.html#module-names
