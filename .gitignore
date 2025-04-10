@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# system specific
+*.DS_Store
+.vscode/
+venv_pytexas2025/
