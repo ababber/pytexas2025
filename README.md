@@ -24,8 +24,6 @@ echo 'LINKEDIN="INSERTVARHERE"\nGITHUB="INSERTVARHERE"\nWEBSITE="INSERTVARHERE"\
 python qr/generate.py
 ```
 
-* generate qr code
-
 ## to do
 
 * [ ]
